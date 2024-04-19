@@ -12,7 +12,7 @@ function Navigation() {
       <div className="parent__nav">
         <nav className="navigation">
           <div className="left__nav">
-            <BsCart4 size={38} style={{ color: "#fb6161" }} />
+            <BsCart4 className="svg" size={38} style={{ color: "#fb6161" }} />
             <h1>Shopwise</h1>
           </div>
           <div

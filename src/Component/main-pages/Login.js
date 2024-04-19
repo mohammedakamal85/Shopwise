@@ -58,7 +58,7 @@ function Login() {
           <div></div>
         ) : (
           <div className="forgot__password">
-            Forgot Password? <span>Click Here!</span>
+            Forget Password? <span>Click Here!</span>
           </div>
         )}
         <div className="submit__container">
